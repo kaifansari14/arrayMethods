@@ -9,3 +9,8 @@ console.log(arr);
 
 
 // push() : add the value/element from the last 
+
+
+let array = [120,130,240];
+array.push (15000);
+console.log(array);

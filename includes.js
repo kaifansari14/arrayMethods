@@ -7,3 +7,7 @@ let arr = ["saboor", "rayyan", "kaif"];
 
 console.log(arr.includes("ali")); // fales
 
+
+let arr1 = ["khaja", "kaif", "Ansari"];
+console.log(arr1.includes("ali")); // fales 
+console.log(arr1.includes("khaja")); // true 

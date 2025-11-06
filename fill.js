@@ -12,3 +12,7 @@ let boys = ["kaif", "zohaab","ibrhim"];
 
 let total1 = boys.fill ("panda");
 console.log(total1);
+
+let boys1 = ["kaif", "ali", "ahmed"];
+let total2 = boys1.fill("tiger");
+console.log(total2);

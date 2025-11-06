@@ -9,3 +9,10 @@ console.log(arr.at(2));
 
 
 // Index ==> Value 
+
+let arr1 = ["I", "Am", "kaif"]
+console.log(arr1.at(0));
+console.log(arr1.at(1));
+console.log(arr1.at(2));
+
+// Index ==> value 
